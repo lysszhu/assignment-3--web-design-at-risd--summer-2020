@@ -64,13 +64,17 @@ p {
 {
    float: left;
    margin: 0;
+   position: fixed;
    width: 30%;
-
+   height: 100%;
 }
 
 #column2
 {
-   float: left;
+   float: right;
    margin: 0;
    width: 70%;
+   text-align: center;
+   left: 30%;
+   height: 100%;
 }
