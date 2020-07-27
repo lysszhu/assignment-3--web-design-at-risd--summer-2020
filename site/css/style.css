@@ -26,6 +26,23 @@ h2 {
 li {
    line-height: 30px;
 }
+
+ol {
+  list-style: none;
+  counter-reset: green-counter;
+}
+
+ol li {
+  counter-increment: green-counter;
+}
+
+ol li::before {
+  content: counter(green-counter) ". ";
+  color: #009BA3;
+  background-color: transparent;
+  font-family: "Baskerville", serif;
+  font-weight: 300;
+}
 #column1
 {
    float: left;
