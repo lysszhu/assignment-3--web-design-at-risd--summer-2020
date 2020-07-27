@@ -43,6 +43,12 @@ ol li::before {
   font-family: "Baskerville", serif;
   font-weight: 300;
 }
+
+a {
+   color: #009BA3;
+   background-color: transparent;
+}
+
 #column1
 {
    float: left;
