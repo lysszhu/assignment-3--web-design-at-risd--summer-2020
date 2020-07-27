@@ -9,12 +9,14 @@ h1,h2 {
    font-family: "Baskerville", serif;
    color: #009BA3;
    background-color: transparent;
+   text-align: left;
 }
 
 h1 {
    font-size: 3em;
    font-weight: 500;
    margin-bottom: 20px;
+   padding-right: 50px;
 }
 
 h2 {
