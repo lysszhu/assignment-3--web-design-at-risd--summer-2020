@@ -1,0 +1,15 @@
+#column1
+{
+   background-color: white;
+   float: left;
+   margin: 0;
+   width: 25%;
+
+}
+
+#column2
+{
+   float: left;
+   margin: 0;
+   width: 75%;
+}
