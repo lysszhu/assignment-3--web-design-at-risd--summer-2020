@@ -1,8 +1,13 @@
 body {
    font-family: "Roboto", sans-serif;
+   background-color: #E2DCCE;
+   color: black;
 }
+
 h1,h2 {
    font-family: "Baskerville", serif;
+   color: #009BA3;
+   background-color: transparent;
 }
 
 #column1
