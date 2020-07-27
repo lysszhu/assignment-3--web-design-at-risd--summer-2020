@@ -15,6 +15,13 @@ h1 {
    font-weight: 500;
    margin-bottom: 20px;
 }
+
+h2 {
+   font-size: 2em;
+   font-weight: 300;
+   margin-top: 20px;
+   margin-bottom: 20px;
+}
 #column1
 {
    float: left;
