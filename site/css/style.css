@@ -24,6 +24,10 @@ h2 {
    margin-bottom: 20px;
 }
 
+em {
+   font-style: italic;
+}
+
 li {
    line-height: 30px;
 }
