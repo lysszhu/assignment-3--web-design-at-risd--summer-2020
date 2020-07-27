@@ -49,6 +49,11 @@ a {
    background-color: transparent;
 }
 
+
+img  {
+   margin-bottom: 20px;
+}
+
 #column1
 {
    float: left;
