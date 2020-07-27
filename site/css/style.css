@@ -1,3 +1,10 @@
+body {
+   font-family: "Roboto", sans-serif;
+}
+h1,h2 {
+   font-family: "Baskerville", serif;
+}
+
 #column1
 {
    float: left;
