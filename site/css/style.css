@@ -2,7 +2,7 @@ body {
    font-family: "Roboto", sans-serif;
    background-color: #E2DCCE;
    color: #48494b;
-   margin: 2em;
+   margin: 3em;
 }
 
 h1,h2 {
@@ -77,8 +77,7 @@ p {
 {
    float: right;
    margin: 0;
-   width: 70%;
+   width: 65%;
    text-align: center;
-   left: 30%;
    height: 100%;
 }
